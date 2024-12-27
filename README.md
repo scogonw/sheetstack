@@ -35,7 +35,7 @@ Transform Google Sheets into a complete full-stack solution instantly. SheetStac
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/sheetstack.git
+git clone https://github.com/scogonw/sheetstack.git
 cd sheetstack
 ```
 
@@ -166,6 +166,6 @@ Give a ⭐️ if this project helped you!
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
+ScogonW - [@scogonw](https://twitter.com/scogonw)
 
-Project Link: [https://github.com/yourusername/sheetstack](https://github.com/yourusername/sheetstack) 
+Project Link: [https://github.com/scogonw/sheetstack](https://github.com/scogonw/sheetstack) 

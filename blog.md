@@ -122,7 +122,7 @@ Getting started with SheetStack is straightforward:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/sheetstack
+git clone https://github.com/scogonw/sheetstack.git
 cd sheetstack
 
 # Install dependencies
@@ -150,7 +150,7 @@ This is just the beginning. I'm excited to see how the community will use and im
 
 SheetStack is now open source and ready for contributions. Whether you're a developer looking to build full-stack applications with Google Sheets, or someone interested in contributing to the project, I'd love to have you involved.
 
-Check out the project on GitHub: [github.com/yourusername/sheetstack](https://github.com/yourusername/sheetstack)
+Check out the project on GitHub: [github.com/scogonw/sheetstack](https://github.com/scogonw/sheetstack)
 
 Let's revolutionize how we build with Google Sheets, together! 🚀
 
