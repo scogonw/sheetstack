@@ -128,8 +128,8 @@ cd sheetstack
 # Install dependencies
 pip install -r requirements.txt
 
-# Configure your environment
-cp .env.example .env
+# Optional: Configure environment variables
+# Edit .env file if you need to customize API_KEY or credentials filename
 
 # Start the server
 uvicorn main:app --reload

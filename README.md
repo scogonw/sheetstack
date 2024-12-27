@@ -54,15 +54,11 @@ pip install -r requirements.txt
       - Download the JSON credentials file
    5. Save the credentials file in your project directory
 
-4. Configure environment:
-   - Copy `.env.example` to `.env`:
-     ```bash
-     cp .env.example .env
+4. Configure environment (optional):
+   - Create or edit `.env` file if you need to customize settings:
      ```
-   - Update `.env` with your settings:
-     ```
-     API_KEY=your_api_key_here
-     GOOGLE_CREDENTIALS_FILE=path_to_your_credentials.json
+     API_KEY=your_api_key_here              # Optional: For authenticated APIs
+     GOOGLE_CREDENTIALS_FILE=credentials.json # Optional: If using different filename
      ```
 
 ### Running the Server
