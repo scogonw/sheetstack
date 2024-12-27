@@ -1,14 +1,14 @@
-# Sheet2API 📊
+# SheetStack 📊
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104.1-green.svg)](https://fastapi.tiangolo.com)
 
-Transform Google Sheets into powerful RESTful APIs instantly. Sheet2API provides a simple way to use Google Sheets as a backend database with features like filtering, sorting, and full-text search.
+Transform Google Sheets into a complete full-stack solution instantly. SheetStack provides a simple way to use Google Sheets as your application backend with features like filtering, sorting, and full-text search.
 
 ## 🌟 Features
 
-- 🔄 **Instant API Generation**: Convert any Google Sheet into a RESTful API
+- 🔄 **Complete Backend Solution**: Transform any Google Sheet into a full-featured REST API
 - 🔍 **Advanced Querying**:
   - Filtering by column values
   - Sorting (ascending/descending)
@@ -35,8 +35,8 @@ Transform Google Sheets into powerful RESTful APIs instantly. Sheet2API provides
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/sheet2api.git
-cd sheet2api
+git clone https://github.com/yourusername/sheetstack.git
+cd sheetstack
 ```
 
 2. Install dependencies:
@@ -168,4 +168,4 @@ Give a ⭐️ if this project helped you!
 
 Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
 
-Project Link: [https://github.com/yourusername/sheet2api](https://github.com/yourusername/sheet2api) 
+Project Link: [https://github.com/yourusername/sheetstack](https://github.com/yourusername/sheetstack) 

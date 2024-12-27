@@ -14,8 +14,8 @@ import json
 load_dotenv()
 
 app = FastAPI(
-    title="Sheet2API",
-    description="A RESTful API service that transforms Google Sheets and Excel Online spreadsheets into APIs",
+    title="SheetStack",
+    description="A full-stack solution that transforms Google Sheets into powerful APIs and complete backend solutions",
     version="1.0.0"
 )
 
