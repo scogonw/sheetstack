@@ -3,3 +3,4 @@ credentials_google.json
 credentials_microsoft.json
 __pycache__/
 *.pyc
+credentials*.json
